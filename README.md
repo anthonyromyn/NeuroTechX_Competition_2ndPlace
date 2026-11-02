@@ -1,7 +1,7 @@
 
 # EEG Brain Age Prediction — 2nd Place, NeuroTechX 2022
 
-**Deep Learning · Ensemble Modeling · Feature Engineering · Automated Machine Learning**
+**Deep Learning · Ensemble Modeling · Feature Engineering · Tabular Modeling · Automated Machine Learning**
 
 ## Overview
 
